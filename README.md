@@ -1,4 +1,4 @@
-# ProDiff: Dual-modal Guided Diffusion for Controllable Protein Generation
+# ProDiff: A Dual-modal Guided Diffusion Framework for Controllable Protein Generation
 
 This repository is the official implementation of [PhysChemDiff: Physicochemical Property-Guided Protein Generation Using Latent Diffusion Models](https://huggingface.co/sanyier312/PhysChemDiff/tree/main).
 
